@@ -1,0 +1,42 @@
+{
+  "themes": [
+    {
+      "name": "Dark",
+      "id": "dark",
+      "variables": {
+        "--radius": "12px",
+        "--background": "#1E1E2F",
+        "--foreground": "#E0E7FF",
+        "--card": "#27293A",
+        "--card-foreground": "#E0E7FF",
+        "--primary": "#2DD4BF",
+        "--primary-foreground": "#27293A",
+        "--secondary": "#64748B",
+        "--secondary-foreground": "#E0E7FF",
+        "--input": "#2D2D44",
+        "--border": "#4B5563",
+        "--accent": "#3B3E5B",
+        "--accent-foreground": "#E0E7FF"
+      }
+    },
+    {
+      "name": "Neon Void",
+      "id": "neon",
+      "variables": {
+        "--radius": "12px",
+        "--background": "#1A1A2E",
+        "--foreground": "#D1FFD7",
+        "--card": "#22223B",
+        "--card-foreground": "#D1FFD7",
+        "--primary": "#AAFFAA",
+        "--primary-foreground": "#22223B",
+        "--secondary": "#5B5B9B",
+        "--secondary-foreground": "#D1FFD7",
+        "--input": "#2A2A4A",
+        "--border": "#3A3A5A",
+        "--accent": "#2F2F5F",
+        "--accent-foreground": "#D1FFD7"
+      }
+    }
+  ]
+}
