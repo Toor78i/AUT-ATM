@@ -48,5 +48,5 @@ logs/
 # Development files
 .qodo
 
-*txt
-*.txt
+DesktopApp_Structure*txt
+DesktopApp_Codebase*.txt
